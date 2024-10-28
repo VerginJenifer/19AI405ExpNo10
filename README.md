@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-### Name:MUKESH.R<br>
-### Register Number: 212223240100<br>
+### Name:D Vergin Jenifer<br>
+### Register Number: 212223240174<br>
 
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
